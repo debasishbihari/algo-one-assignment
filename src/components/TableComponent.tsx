@@ -60,3 +60,4 @@ const TableComponent: React.FC<TableComponentProps> = ({ data, rowsToShow }) => 
 };
 
 export default TableComponent;
+
